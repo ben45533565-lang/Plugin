@@ -1,0 +1,6 @@
+# Plugins Settings
+settings:
+  optimize-player-data: true
+  auto-save-on-quit: true
+  log-performance-data: false
+
