@@ -9,7 +9,7 @@ Bu eklenti, sunucu performansını optimize etmek ve oyuncu verilerini (envanter
 ## Kurulum
 1. `Plugin-1.0.jar` dosyasını indirin.
 2. Sunucunuzun `plugins/` klasörüne atın.
-3. Sunucuyu yeniden başlatın veya `/reload` komutunu kullanın.
+3. Sunucuyu veya dünyanızı yeniden başlatın veya `/reload` komutunu kullanın.
 
 ## Gereksinimler
 - **Vault:** Ekonomi özellikleri için gereklidir.
